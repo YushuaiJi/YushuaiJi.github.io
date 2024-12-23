@@ -22,6 +22,7 @@ My current research interests mainly include spatial database, spatial data shar
 <div class='paper-box-text' markdown="1">
 
 [Fast Dataset Search with Earth Mover's Distance](https://dl.acm.org/doi/abs/10.14778/3551793.3551811)  **Wenzhe Yang**, Sheng Wang, Yuan Sun, Zhiyong Peng
+
 [Fast Dataset Search with Earth Mover's Distance-technique report](http://sheng.whu.edu.cn/papers/22VLDB-tr.pdf)  **Wenzhe Yang**, Sheng Wang, Yuan Sun, Zhiyong Peng
 
 

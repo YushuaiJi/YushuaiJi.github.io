@@ -18,7 +18,7 @@ My current research interests mainly include spatial database, spatial data shar
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2022</div>
 <div class='paper-box-text' markdown="1">
 
 [Fast Dataset Search with Earth Mover's Distance](https://dl.acm.org/doi/abs/10.14778/3551793.3551811)  **Wenzhe Yang**, Sheng Wang, Yuan Sun, Zhiyong Peng

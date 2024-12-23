@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Wenzhe Yang, a phd student from Wuhan University, under the supervision of Prof. Zhiyong Peng and Prof. Sheng Wang, in the Totem database Lab. Before that, I received the received the BE degree and ME degree in computer science and technology from Jilin University, China in 2017, 2020, respectively.
+I am Wenzhe Yang, a PhD student from Wuhan University, under the supervision of Prof. Zhiyong Peng and Prof. Sheng Wang, in the [Totem database Lab](http://totemdb.whu.edu.cn/). Before that, I received the BE degree and ME degree in computer science and technology from Jilin University, China in 2017, and 2020, respectively.
 
-My current research interests mainly include spatial database, spatial data sharing, spatial dataset search.
+My current research interests mainly include spatial databases, spatial data sharing, and spatial dataset search.
 
 # 🔥 News
 - *2022.06*: &nbsp;🎉🎉 One paper has been accepted by VLDB 2022

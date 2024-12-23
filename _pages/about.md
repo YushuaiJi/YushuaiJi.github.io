@@ -25,4 +25,9 @@ My current research interests mainly include spatial database, spatial data shar
 
 [Fast Dataset Search with Earth Mover's Distance-technique report](http://sheng.whu.edu.cn/papers/22VLDB-tr.pdf)  **Wenzhe Yang**, Sheng Wang, Yuan Sun, Zhiyong Peng
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div>
+<div class='paper-box-text' markdown="1">
+
+[Joinable Search over Multi-source Spatial Datasets: Overlap, Coverage, and Efficiency](https://arxiv.org/abs/2311.13383)  **Wenzhe Yang**, Sheng Wang, Zhiyu Chen, Yuan Sun, Zhiyong Peng
+
 

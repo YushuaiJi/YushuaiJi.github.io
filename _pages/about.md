@@ -22,7 +22,7 @@ My current research interests mainly include spatial databases, spatial data sha
 
 [Fast Dataset Search with Earth Mover's Distance](https://dl.acm.org/doi/abs/10.14778/3551793.3551811)  **Wenzhe Yang**, Sheng Wang*, Yuan Sun, Zhiyong Peng*
 
-[Fast Dataset Search with Earth Mover's Distance-technique report](https://github.com/yangwenzhe/yangwenzhe.github.io/blob/master/_publications/22VLDB-tr.pdf)  **Wenzhe Yang**, Sheng Wang*, Yuan Sun, Zhiyong Peng*
+[Fast Dataset Search with Earth Mover's Distance-technique report](http://yangwenzhe.github.io/files/22VLDB-tr.pdf)  **Wenzhe Yang**, Sheng Wang*, Yuan Sun, Zhiyong Peng*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025:</div>
 <div class='paper-box-text' markdown="1">

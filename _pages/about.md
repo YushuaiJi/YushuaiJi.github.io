@@ -1,32 +1,42 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Wenzhe Yang, a PhD student from Wuhan University, under the supervision of [Prof. Zhiyong Peng](https://cs.whu.edu.cn/info/1019/2494.htm) and [Prof. Sheng Wang](http://sheng.whu.edu.cn/), in the [Totem database Lab](http://totemdb.whu.edu.cn/). Before that, I received the BE degree and ME degree from the College of Computer Science and Technology, Jilin University, China in 2017, and 2020, respectively.
+I’m Yushuai Ji, a third-year Ph.D. student at Wuhan University, advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I’m also fortunate to collaborate with Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/). 
 
-My current research interests mainly include spatial databases, spatial data sharing, and spatial dataset search.
+**Publications**
+------
+**Yushuai Ji**, Shengkun Zhu, Shixun  Huang, Zepeng Liu, Sheng Wang, Zhiyong Peng, Federated and Balanced Clustering for High-dimensional Data, (PVLDB'2025).
 
-# 🔥 News
-- *2022.06*: &nbsp;🎉🎉 One paper has been accepted by VLDB 2022.
-- *2024.11*: &nbsp;🎉🎉 One paper has been accepted by ICDE 2025. 
+**Yushuai Ji**, Zepeng Liu, Sheng Wang, Yuan Sun, Yuan Sun, Zhiyong Peng, On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means, (ICDE'2025).
 
-# 📝 Publications 
+**Work Experience**
+------
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2022:</div>
-<div class='paper-box-text' markdown="1">
+* [April 2021 – July 2021] Soft Engineer, Alipay — Hangzhou, China
 
-[Fast Dataset Search with Earth Mover's Distance](https://dl.acm.org/doi/abs/10.14778/3551793.3551811)  **Wenzhe Yang**, Sheng Wang*, Yuan Sun, Zhiyong Peng*
-
-[Fast Dataset Search with Earth Mover's Distance-technique report](http://yangwenzhe.github.io/files/22VLDB-tr.pdf)  **Wenzhe Yang**, Sheng Wang*, Yuan Sun, Zhiyong Peng*
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025:</div>
-<div class='paper-box-text' markdown="1">
-
-[Joinable Search over Multi-source Spatial Datasets: Overlap, Coverage, and Efficiency](https://arxiv.org/abs/2311.13383)  **Wenzhe Yang**, Sheng Wang*, Zhiyu Chen, Yuan Sun, Zhiyong Peng*
+* [January 2021 – April 2021] Intern, Best Buy — St. Louis, MO, U.S.
 
 
+**Education**
+------
+- **Ph.D. Student in Computer Science**  
+  Wuhan University, Hubei, China  
+  *Sep 2022 – Present*
+
+- **M.A. in Statistics**  
+  Washington University in St. Louis, MO, U.S.  
+  *Sep 2019 – Jun 2021*
+
+- **Zhangzhidong Honor Class (Joint Program)**  
+  Huazhong Agricultural University & Wuhan University, Hubei, China  
+  *Sep 2015 – Jun 2019*
+  
+**My Code Repository**
+------
+I designed a lightweight [distribution system](https://github.com/YushuaiJi/Distribution-System) in Go that supports MapReduce with strong fault tolerance on low-cost commercial hardware, capable of serving many users efficiently.

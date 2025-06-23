@@ -27,17 +27,14 @@ The IEEE International Conference on Data Engineering](https://www.computer.org/
 
 **Education**
 ------
-- **Ph.D. Student in Computer Science**  
-  Wuhan University, Hubei, China  
-  *Sep 2022 – Present*
+- **Ph.D. Student in Computer Science**,
+  Wuhan University, Hubei, China, *Sep 2022 – Present*
 
-- **M.A. in Statistics**  
-  Washington University in St. Louis, MO, U.S.  
-  *Sep 2019 – Jun 2021*
+- **M.A. in Statistics**,
+  Washington University in St. Louis, MO, U.S., *Sep 2019 – Jun 2021*
 
-- **Zhangzhidong Honor Class (Joint Program)**  
-  Huazhong Agricultural University & Wuhan University, Hubei, China  
-  *Sep 2015 – Jun 2019*
+- **Zhangzhidong Class**,
+  Huazhong Agricultural University & Wuhan University, Hubei, China, *Sep 2015 – Jun 2019*
   
 **My Code Repository**
 ------

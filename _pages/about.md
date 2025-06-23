@@ -13,11 +13,11 @@ I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate 
 ------
 **Yushuai Ji**, Shengkun Zhu, Shixun  Huang, Zepeng Liu, Sheng Wang, Zhiyong Peng. Federated and Balanced Clustering for High-dimensional Data. The International Conference on Very Large Data Bases (**VLDB**), 2025, (to appear). (**CCF A**).
 
-**Yushuai Ji**, Zepeng Liu, Sheng Wang, Yuan Sun, Yuan Sun, Zhiyong Peng.
-On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means.
-The IEEE International Conference on Data Engineering (**ICDE**), pp.863-876, 2025. (**CCF A**).
+**Yushuai Ji**, Zepeng Liu, Sheng Wang, Yuan Sun, Zhiyong Peng.
+[On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means.
+The IEEE International Conference on Data Engineering](https://www.computer.org/csdl/proceedings-article/icde/2025/360300a863/26FZzBgQACY) (**ICDE**), pp.863-876, 2025. (**CCF A**).
 
-**Work Experience**
+**Working Experience**
 ------
 
 * [April 2021 – July 2021] Soft Engineer, Alipay — Hangzhou, China

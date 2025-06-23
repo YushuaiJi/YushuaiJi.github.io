@@ -20,9 +20,9 @@ The IEEE International Conference on Data Engineering](https://www.computer.org/
 **Working Experience**
 ------
 
-* **Soft Engineer**, Alipay, China, *April 2021 – July 2021*
+- **Soft Engineer**, Alipay, China, *April 2021 – July 2021*
 
-* **Intern**, Best Buy in St. Louis, U.S, *January 2021 – April 2021*
+- **Intern**, Best Buy in St. Louis, U.S, *January 2021 – April 2021*
 
 
 **Education**
@@ -35,6 +35,7 @@ The IEEE International Conference on Data Engineering](https://www.computer.org/
 
 - **Zhangzhidong Class**,
   Huazhong Agricultural University & Wuhan University, China, *Sep 2015 – Jun 2019*
+
   
 **My Code Repository**
 ------

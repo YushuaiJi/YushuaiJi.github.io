@@ -41,8 +41,7 @@ The IEEE International Conference on Data Engineering](https://www.computer.org/
 ------
 I designed a lightweight [distribution system](https://github.com/YushuaiJi/Distribution-System) in Go that supports MapReduce with strong fault tolerance on low-cost commercial hardware, capable of serving many users efficiently.
 
-**Outings**
+**Outings & Activities**
 ------
-<img src="images/whucs1.png" width="30%" height="auto">
-<img src="images/whucs2.png" width="30%" height="auto">
-<img src="images/whucs3.png" width="30%" height="auto">
+<img src="images/whucs1.png" width="50%" height="auto">
+<img src="images/whucs3.png" width="50%" height="auto">

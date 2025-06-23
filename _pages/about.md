@@ -11,9 +11,9 @@ I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate 
 
 **Publications**
 ------
-**Yushuai Ji**, Shengkun Zhu, Shixun  Huang, Zepeng Liu, Sheng Wang, Zhiyong Peng, Federated and Balanced Clustering for High-dimensional Data, (PVLDB'2025).
+**Yushuai Ji**, Shengkun Zhu, Shixun  Huang, Zepeng Liu, Sheng Wang, Zhiyong Peng, Federated and Balanced Clustering for High-dimensional Data, (PVLDB'2025, **CCF A**).
 
-**Yushuai Ji**, Zepeng Liu, Sheng Wang, Yuan Sun, Yuan Sun, Zhiyong Peng, On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means, (ICDE'2025).
+**Yushuai Ji**, Zepeng Liu, Sheng Wang, Yuan Sun, Yuan Sun, Zhiyong Peng, On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means, (ICDE'2025, **CCF A**).
 
 **Work Experience**
 ------

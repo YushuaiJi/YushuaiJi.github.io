@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Yushuai Ji, a third-year Ph.D. student at Wuhan University, advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I’m also fortunate to collaborate with Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/). 
+I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate to be advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I am also grateful to collaborate with other excellent researchers, including Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/).
 
 **Publications**
 ------

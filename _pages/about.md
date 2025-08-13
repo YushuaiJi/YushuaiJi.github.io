@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate to be advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I am also grateful to collaborate with other excellent researchers, including Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/).
+I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate to be advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I am also grateful to collaborate with other excellent researchers, including Prof. [Zhifeng Bao](https://baozhifeng.net), Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/).
 
 **Publications**
 ------
-**Yushuai Ji**, Shengkun Zhu, Shixun  Huang, Zepeng Liu, Sheng Wang, Zhiyong Peng. Federated and Balanced Clustering for High-dimensional Data. The International Conference on Very Large Data Bases (**VLDB**), 2025, (to appear). (**CCF A**).
+**Yushuai Ji**, Shengkun Zhu, Shixun  Huang, Zepeng Liu, Sheng Wang, Zhiyong Peng. [Federated and Balanced Clustering for High-dimensional Data](https://sheng.whu.edu.cn/papers/25vldb.pdf). The International Conference on Very Large Data Bases (**VLDB**), 18(11): pp.4032-4044, 2025. (**CCF A**).
 
 **Yushuai Ji**, Zepeng Liu, Sheng Wang, Yuan Sun, Zhiyong Peng.
 [On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means.

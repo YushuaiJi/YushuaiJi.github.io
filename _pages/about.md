@@ -46,4 +46,4 @@ The IEEE International Conference on Data Engineering (**ICDE**), pp.863-876, 20
 ------
 <img src="images/whucs1.png" width="30%" height="auto">
 <img src="images/WechatIMG19.png" width="30%" height="auto">
-<img src="images/whucs3.png" width="30%" height="auto">
+<img src="images/whucs3.png" width="30%" height="220">

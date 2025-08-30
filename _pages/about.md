@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate to be advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I am also grateful to collaborate with other excellent researchers, including Prof. [Zhifeng Bao](https://baozhifeng.net), Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/).
+I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate to be advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I am also grateful to collaborate with other excellent researchers, including Prof. [Zhifeng Bao](https://baozhifeng.net), Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/). My research interests include vector databases (e.g., approximate nearest neighbor search, clustering-based indexing, and hardware for accelerating search), clustering theory (e.g., balanced k-means for high-dimensional data), and machine learning for databases (e.g., learned indexes and index selection).
 
 **News**
 ------

@@ -11,7 +11,7 @@ I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate 
 
 **News**
 ------
-<span style="color:red">**I'm looking for postdoc or job roles starting from 2026. Please drop me an email (yushuai@whu.edu.cn) if you think I would be a good fit for your team. Thanks!**</span>
+<span style="color:#CD5C5C">**I'm looking for postdoc or job roles starting from 2026. Please drop me an email (yushuai@whu.edu.cn) if you think I would be a good fit for your team. Thanks!**</span>
 
 **Publications**
 ------

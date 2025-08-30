@@ -44,5 +44,7 @@ The IEEE International Conference on Data Engineering (**ICDE**), pp.863-876, 20
 
 **Outings & Activities**
 ------
-<img src="images/whucs1.png" width="50%" height="auto">
-<img src="images/WechatIMG19.png" width="50%" height="auto">
+<div align="center">
+  <img src="images/whucs1.png" width="45%">
+  <img src="images/WechatIMG19.png" width="45%">
+</div>

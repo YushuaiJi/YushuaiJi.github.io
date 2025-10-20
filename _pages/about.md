@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate to be advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I am also grateful to collaborate with other excellent researchers, including Prof. [Zhifeng Bao](https://baozhifeng.net), Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/). My research interests include vector databases (e.g., approximate nearest neighbor search and clustering-based indexing), clustering theory (e.g., balanced k-means for high-dimensional data), and machine learning for databases (e.g., learned indexes and index selection). In the future, I plan to explore the applications of clustering algorithms and query techniques in large language models, with a particular focus on Retrieval-Augmented Generation and KV-cache acceleration.
+I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate to be advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I am also grateful to collaborate with other excellent researchers, including Prof. [Zhifeng Bao](https://baozhifeng.net), Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/). My research interests include vector databases (e.g., approximate nearest neighbor search and clustering-based indexing), clustering theory (e.g., balanced k-means for high-dimensional data), and machine learning for databases (e.g., learned indexes and index selection). In the future, I plan to explore the applications of clustering algorithms and query techniques in large language models, with a particular focus on Retrieval-Augmented Generation.
 
 **News**
 ------
@@ -15,6 +15,10 @@ I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate 
 
 **Publications**
 ------
+**Yushuai Ji**, Sheng Wang, Zhiyu Chen, Yuan Sun, and Zhiyong Peng
+[Updatable Balanced Index for Fast On-device Search with Auto-selection Model].
+The IEEE International Conference on Data Engineering (**ICDE**), 2026, to appear. (**CCF A**).
+
 **Yushuai Ji**, Shengkun Zhu, Shixun  Huang, Zepeng Liu, Sheng Wang, Zhiyong Peng. [Federated and Balanced Clustering for High-dimensional Data](https://sheng.whu.edu.cn/papers/25vldb.pdf). The International Conference on Very Large Data Bases (**VLDB**), 18(11): pp.4032-4044, 2025. (**CCF A**).
 
 **Yushuai Ji**, Zepeng Liu, Sheng Wang, Yuan Sun, Zhiyong Peng.

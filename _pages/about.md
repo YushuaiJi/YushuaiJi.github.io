@@ -50,9 +50,4 @@ The IEEE International Conference on Data Engineering (**ICDE**), pp.863-876, 20
 <div align="center">
   <img src="images/whucs1.png" width="30%">
   <img src="images/WechatIMG19.png" width="30%">
-  <img src="images/vldb2025.png" width="30%">
-
-  <img src="images/withwang.jpg" width="30%">
-  <img src="images/huanong.png" width="30%">
-  <img src="images/friend.png" width="30%">
 </div>

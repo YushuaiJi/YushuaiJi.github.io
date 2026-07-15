@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | strip_html | strip_newlines }}">
+    <title>{% if page.title and page.title != site.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          {% for link in site.data.navigation.main %}
+            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <div class="page-shell">
+      <aside class="profile-panel" aria-label="Profile">
+        <img class="profile-photo" src="{{ '/images/yushuai1.png' | relative_url }}" alt="Yushuai Ji">
+        <h1>Yushuai Ji</h1>
+        <p class="profile-title">Ph.D. Student in Computer Science</p>
+        <p>
+          <a href="https://www.whu.edu.cn/">Wuhan University</a><br>
+          Totem Database Lab<br>
+          Wuhan, China
+        </p>
+        <dl class="profile-list">
+          <dt>Email</dt>
+          <dd><a href="mailto:yushuai@whu.edu.cn">yushuai [at] whu.edu.cn</a></dd>
+          <dt>Links</dt>
+          <dd>
+            <a href="https://scholar.google.com/citations?user=7JrI8PcAAAAJ&hl=en">Google Scholar</a><br>
+            <a href="https://github.com/YushuaiJi">GitHub</a><br>
+            <a href="{{ '/cv/' | relative_url }}">CV</a>
+          </dd>
+        </dl>
+      </aside>
+
+      <main class="content" id="main">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <p>&copy; {{ site.time | date: '%Y' }} Yushuai Ji. Last updated {{ site.time | date: '%B %d, %Y' }}.</p>
+    </footer>
+  </body>
+</html>

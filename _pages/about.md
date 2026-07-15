@@ -1,53 +1,80 @@
 ---
+layout: academic
 permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Yushuai Ji"
 ---
 
-I am Yushuai Ji, a third-year Ph.D. student at Wuhan University. I am fortunate to be advised by Prof. [Sheng Wang](http://sheng.whu.edu.cn/) and Prof. Zhiyong Peng in the Totem Database Lab. I am also grateful to collaborate with other excellent researchers, including Prof. [Zhifeng Bao](https://baozhifeng.net), Dr. [Shixun Huang](https://shixunh.io/), Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun), and Dr. [Zhiyu Chen](https://zhiyuchen.com/). My research interests include vector databases (e.g., approximate nearest neighbor search and clustering-based indexing), clustering theory (e.g., balanced k-means for high-dimensional data), and machine learning for databases (e.g., learned indexes and index selection). In the future, I plan to explore the applications of clustering algorithms and query techniques in large language models, with a particular focus on Retrieval-Augmented Generation.
+# Yushuai Ji
+{: .page-title}
 
-**News**
-------
-<span style="color:#CD5C5C">**Our work, UnIS, was accepted to ICDE 2026. See you in Canada!**</span>
+<p class="subtitle">Ph.D. student in Computer Science, Wuhan University</p>
 
-**Publications**
-------
-**Yushuai Ji**, Sheng Wang, Zhiyu Chen, Yuan Sun, and Zhiyong Peng. Updatable Balanced Index for Fast On-device Search with Auto-selection Model.
-The IEEE International Conference on Data Engineering (**ICDE**), 2026, to appear. (**CCF A**).
+## Biography
 
-**Yushuai Ji**, Shengkun Zhu, Shixun  Huang, Zepeng Liu, Sheng Wang, Zhiyong Peng. [Federated and Balanced Clustering for High-dimensional Data](https://sheng.whu.edu.cn/papers/25vldb.pdf). The International Conference on Very Large Data Bases (**VLDB**), 18(11): pp.4032-4044, 2025. (**CCF A**).
+I am a Ph.D. student in Computer Science at <a href="https://www.whu.edu.cn/">Wuhan University</a>, working with Prof. <a href="http://sheng.whu.edu.cn/">Sheng Wang</a> and Prof. Zhiyong Peng in the Totem Database Lab. I am grateful to collaborate with Prof. <a href="https://baozhifeng.net/">Zhifeng Bao</a>, Dr. <a href="https://shixunh.io/">Shixun Huang</a>, Dr. <a href="https://scholars.latrobe.edu.au/y6sun">Yuan Sun</a>, and Dr. <a href="https://zhiyuchen.com/">Zhiyu Chen</a>.
 
-**Yushuai Ji**, Zepeng Liu, Sheng Wang, Yuan Sun, Zhiyong Peng.
-[On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means](https://www.computer.org/csdl/proceedings-article/icde/2025/360300a863/26FZzBgQACY).
-The IEEE International Conference on Data Engineering (**ICDE**), pp.863-876, 2025. (**CCF A**).
+My research focuses on database systems and data management for high-dimensional data. I am especially interested in vector databases, approximate nearest neighbor search, balanced clustering, scalable indexing, and machine learning techniques for database systems. Recently, I have also been exploring how clustering and retrieval techniques can support large language model applications, especially retrieval-augmented generation.
 
-**Working Experience**
-------
+## Research Interests
 
-- **Soft Engineer**, Alipay, China, *April 2021 – July 2021*
+* Vector databases, approximate nearest neighbor search, and on-device retrieval.
+* High-dimensional clustering, balanced k-means, and clustering-based indexing.
+* Machine learning for databases, learned indexes, and index selection.
+* Retrieval techniques for large language models and retrieval-augmented generation.
 
-- **Intern**, Best Buy, U.S, *January 2021 – April 2021*
+## News
 
+<ul class="news-list">
+  <li><span class="date">2026</span><span>Our work <strong>UnIS</strong> was accepted to <strong>ICDE 2026</strong>.</span></li>
+  <li><span class="date">2025</span><span>Our paper on federated and balanced clustering was accepted to <strong>VLDB 2025</strong>.</span></li>
+  <li><span class="date">2025</span><span>Our paper on simplifying large-scale spatial vectors appeared at <strong>ICDE 2025</strong>.</span></li>
+</ul>
 
-**Education**
-------
-- **Ph.D. Student in Computer Science**,
-  Wuhan University, China, *Sep 2022 – Present*
+## Selected Publications
 
-- **M.A. in Statistics**,
-  Washington University in St. Louis, U.S., *Sep 2019 – Jun 2021*
+### 2026
 
-- **Zhangzhidong Class**,
-  Huazhong Agricultural University & Wuhan University, China, *Sep 2015 – Jun 2019*
+<ol class="pub-list">
+  <li>
+    <span class="paper-title">Updatable Balanced Index for Fast On-device Search with Auto-selection Model.</span><br>
+    <strong>Yushuai Ji</strong>, Sheng Wang, Zhiyu Chen, Yuan Sun, and Zhiyong Peng.<br>
+    <span class="venue">ICDE 2026</span>, to appear. <span class="tag">CCF A</span>
+  </li>
+</ol>
 
-  
+### 2025
 
-**Outings & Activities**
-------
-<div align="center">
-  <img src="images/whucs1.png" width="30%">
-  <img src="images/WechatIMG19.png" width="30%">
+<ol class="pub-list">
+  <li>
+    <span class="paper-title"><a href="https://sheng.whu.edu.cn/papers/25vldb.pdf">Federated and Balanced Clustering for High-dimensional Data.</a></span><br>
+    <strong>Yushuai Ji</strong>, Shengkun Zhu, Shixun Huang, Zepeng Liu, Sheng Wang, and Zhiyong Peng.<br>
+    <span class="venue">VLDB 2025</span>, 18(11): 4032-4044. <span class="tag">CCF A</span>
+  </li>
+  <li>
+    <span class="paper-title"><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300a863/26FZzBgQACY">On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means.</a></span><br>
+    <strong>Yushuai Ji</strong>, Zepeng Liu, Sheng Wang, Yuan Sun, and Zhiyong Peng.<br>
+    <span class="venue">ICDE 2025</span>, 863-876. <span class="tag">CCF A</span>
+  </li>
+</ol>
+
+## Education
+
+<ul class="timeline">
+  <li><span class="date">2022 - Present</span><span><strong>Ph.D. Student in Computer Science</strong>, Wuhan University, China.</span></li>
+  <li><span class="date">2019 - 2021</span><span><strong>M.A. in Statistics</strong>, Washington University in St. Louis, USA.</span></li>
+  <li><span class="date">2015 - 2019</span><span><strong>Zhangzhidong Class</strong>, Huazhong Agricultural University and Wuhan University, China.</span></li>
+</ul>
+
+## Working Experience
+
+<ul class="timeline">
+  <li><span class="date">Apr. - Jul. 2021</span><span><strong>Software Engineer</strong>, Alipay, China.</span></li>
+  <li><span class="date">Jan. - Apr. 2021</span><span><strong>Intern</strong>, Best Buy, USA.</span></li>
+</ul>
+
+## Activities
+
+<div class="gallery">
+  <img src="/images/whucs1.png" alt="Academic activity">
+  <img src="/images/WechatIMG19.png" alt="Academic outing">
 </div>

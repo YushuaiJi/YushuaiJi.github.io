@@ -1,36 +1,34 @@
 ---
-layout: archive
+layout: academic
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Publications
 
-{% include base_path %}
+## 2026
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ol class="pub-list">
+  <li>
+    <span class="paper-title">Updatable Balanced Index for Fast On-device Search with Auto-selection Model.</span><br>
+    <strong>Yushuai Ji</strong>, Sheng Wang, Zhiyu Chen, Yuan Sun, and Zhiyong Peng.<br>
+    The IEEE International Conference on Data Engineering, <span class="venue">ICDE 2026</span>, to appear. <span class="tag">CCF A</span>
+  </li>
+</ol>
 
+## 2025
 
+<ol class="pub-list">
+  <li>
+    <span class="paper-title"><a href="https://sheng.whu.edu.cn/papers/25vldb.pdf">Federated and Balanced Clustering for High-dimensional Data.</a></span><br>
+    <strong>Yushuai Ji</strong>, Shengkun Zhu, Shixun Huang, Zepeng Liu, Sheng Wang, and Zhiyong Peng.<br>
+    The International Conference on Very Large Data Bases, <span class="venue">VLDB 2025</span>, 18(11): 4032-4044. <span class="tag">CCF A</span>
+  </li>
+  <li>
+    <span class="paper-title"><a href="https://www.computer.org/csdl/proceedings-article/icde/2025/360300a863/26FZzBgQACY">On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means.</a></span><br>
+    <strong>Yushuai Ji</strong>, Zepeng Liu, Sheng Wang, Yuan Sun, and Zhiyong Peng.<br>
+    The IEEE International Conference on Data Engineering, <span class="venue">ICDE 2025</span>, 863-876. <span class="tag">CCF A</span>
+  </li>
+</ol>
 
+You can also find my articles on <a href="https://scholar.google.com/citations?user=7JrI8PcAAAAJ&hl=en">Google Scholar</a>.

@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "My homepage"
+title                    : "Yushuai Ji"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yushuai Ji"
+description              : &description "Ph.D. student in Computer Science at Wuhan University. Research in vector databases, high-dimensional clustering, and machine learning for databases."
 url                      : https://yushuaiji.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "YushuaiJi/YushuaiJi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "yushuai1.png"
   name             : "Yushuai Ji"
   pronouns         : # example: "she/her"  
-  bio              : "Coder"
+  bio              : "Ph.D. student in Computer Science"
   location         : "Wuhan, China"
   employer         : "Wuhan University"
   email            : "yushuai@whu.edu.cn" 
@@ -34,7 +34,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=7JrI8PcAAAAJ&hl=en"
 
   # Repositories and software development
-  github           : "https://github.com/YushuaiJi"
+  github           : "YushuaiJi"
   kaggle           : # Yushuai Ji
 
 
@@ -51,7 +51,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
@@ -81,7 +81,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -120,7 +120,6 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -134,18 +133,24 @@ exclude:
   - assets/js/vendor
   - CHANGELOG
   - Capfile
+  - CONTRIBUTING.md
   - config
   - Dockerfile
+  - files
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - local
   - log
+  - markdown_generator
   - node_modules
   - package.json*
   - Rakefile
   - README
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
   - tmp
   - vendor
 keep_files:
@@ -178,16 +183,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

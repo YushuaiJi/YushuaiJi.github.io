@@ -9,13 +9,13 @@ permalink: /cv/
 <h2><span data-lang="en">Education</span><span data-lang="zh" hidden>教育经历</span></h2>
 
 <ul data-lang="en">
-  <li><strong>Ph.D. in Computer Science</strong>, Wuhan University, China. Advisors: Prof. Sheng Wang and Prof. Zhiyong Peng, Totem Database Lab.</li>
+  <li><strong>Ph.D. in Electronic Information</strong>, School of Computer Science, Wuhan University, China. Advisors: Prof. Sheng Wang and Prof. Zhiyong Peng, Totem Database Lab.</li>
   <li><strong>M.A. in Statistics</strong>, Washington University in St. Louis, USA.</li>
   <li><strong>Zhangzhidong Class</strong>, Huazhong Agricultural University and Wuhan University, China.</li>
 </ul>
 
 <ul data-lang="zh" hidden>
-  <li><strong>计算机科学博士</strong>，武汉大学，中国。导师：王胜教授、彭智勇教授，图腾数据库实验室。</li>
+  <li><strong>电子信息博士</strong>，武汉大学计算机学院，中国。导师：王胜教授、彭智勇教授，图腾数据库实验室。</li>
   <li><strong>统计学硕士</strong>，圣路易斯华盛顿大学，美国。</li>
   <li><strong>张之洞班</strong>，华中农业大学与武汉大学，中国。</li>
 </ul>

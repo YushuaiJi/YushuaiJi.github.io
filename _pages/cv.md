@@ -80,7 +80,7 @@ permalink: /cv/
 </ul>
 
 <ul class="timeline" data-lang="zh" hidden>
-  <li><span class="date">目前</span><span><strong>博士后研究员</strong>，香港浸会大学计算机科学系，中国香港。导师：许建良教授。</span></li>
+  <li><span class="date">目前</span><span><strong>博士后研究员</strong>，香港浸会大学计算机科学系，中国香港。导师：徐建良教授。</span></li>
   <li><span class="date">2021年4月 - 7月</span><span><strong>软件工程师</strong>，支付宝，中国。</span></li>
   <li><span class="date">2021年1月 - 4月</span><span><strong>实习生</strong>，Best Buy，美国。</span></li>
 </ul>

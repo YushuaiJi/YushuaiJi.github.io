@@ -299,7 +299,8 @@ html[lang="zh-CN"] .language-toggle {
   margin-left: 4px;
   color: var(--muted);
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 13px;
+  font-size: 15px;
+  font-weight: 700;
 }
 
 .timeline {

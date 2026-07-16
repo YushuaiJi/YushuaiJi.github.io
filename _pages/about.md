@@ -36,7 +36,7 @@ title: "Yushuai Ji"
   <li>面向数据库系统的可扩展索引、聚类与机器学习。</li>
 </ul>
 
-<h2><span data-lang="en">News</span><span data-lang="zh" hidden>新闻</span></h2>
+<h2><span data-lang="en">News</span><span data-lang="zh" hidden>动态</span></h2>
 
 <ul class="news-list" data-lang="en">
   <li><span class="date">2026</span><span>Our paper <strong>Highly-Efficient Large-Scale k-means with Individual Fairness</strong> was published in <strong>PVLDB 19(5)</strong>. We develop TKM and FastTKM to improve fairness and scalability in large-scale clustering.</span></li>

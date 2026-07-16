@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yushuai Ji"
 title_separator          : "-"
 name                     : &name "Yushuai Ji"
-description              : &description "Ph.D. student in Computer Science at Wuhan University. Research in vector databases, high-dimensional clustering, and machine learning for databases."
+description              : &description "Postdoctoral researcher in the Department of Computer Science at Hong Kong Baptist University. Research in multi-agent systems, LLM inference, hybrid vector search, and database systems."
 url                      : https://yushuaiji.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YushuaiJi/YushuaiJi.github.io"
@@ -25,10 +25,10 @@ author:
   avatar           : "yushuai-profile.jpg"
   name             : "Yushuai Ji"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student in Computer Science"
-  location         : "Wuhan, China"
-  employer         : "Wuhan University"
-  email            : "yushuai@whu.edu.cn" 
+  bio              : "Postdoctoral Researcher"
+  location         : "Hong Kong, China"
+  employer         : "Hong Kong Baptist University"
+  email            : "csysji@hkbu.edu.hk"
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=7JrI8PcAAAAJ&hl=en"

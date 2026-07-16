@@ -7,29 +7,30 @@ title: "Yushuai Ji"
 # Yushuai Ji
 {: .page-title}
 
-<p class="subtitle">Ph.D. student in Computer Science, Wuhan University</p>
+<p class="subtitle">Postdoctoral Researcher, Department of Computer Science, Hong Kong Baptist University</p>
 
 ## Biography
 
-I am a Ph.D. student in Computer Science at <a href="https://www.whu.edu.cn/">Wuhan University</a>, working with Prof. <a href="http://sheng.whu.edu.cn/">Sheng Wang</a> and Prof. Zhiyong Peng in the Totem Database Lab. I am grateful to collaborate with Prof. <a href="https://baozhifeng.net/">Zhifeng Bao</a>, Dr. <a href="https://shixunh.io/">Shixun Huang</a>, Dr. <a href="https://scholars.latrobe.edu.au/y6sun">Yuan Sun</a>, and Dr. <a href="https://zhiyuchen.com/">Zhiyu Chen</a>.
+I am a postdoctoral researcher in the Department of Computer Science at <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University</a>, working with Prof. Jianliang Xu. I received my Ph.D. in Computer Science from <a href="https://www.whu.edu.cn/">Wuhan University</a>, where I was advised by Prof. Sheng Wang and Prof. Zhiyong Peng in the Totem Database Lab. I am grateful to collaborate with Prof. <a href="https://baozhifeng.net/">Zhifeng Bao</a>, Dr. <a href="https://shixunh.io/">Shixun Huang</a>, Dr. <a href="https://scholars.latrobe.edu.au/y6sun">Yuan Sun</a>, and Dr. <a href="https://zhiyuchen.com/">Zhiyu Chen</a>.
 
-My research focuses on database systems and data management for high-dimensional data. I am especially interested in vector databases, approximate nearest neighbor search, balanced clustering, scalable indexing, and machine learning techniques for database systems. Recently, I have also been exploring how clustering and retrieval techniques can support large language model applications, especially retrieval-augmented generation.
+My research focuses on database systems and data management for AI and high-dimensional data. I am especially interested in multi-agent systems, large language model inference, hybrid vector search, vector databases, approximate nearest neighbor search, scalable indexing, and machine learning techniques for database systems. My work aims to build efficient data management and retrieval infrastructure for LLM- and multi-agent applications.
 
 ## Research Interests
 
-* Vector databases, approximate nearest neighbor search, and on-device retrieval.
-* High-dimensional clustering, balanced k-means, and clustering-based indexing.
-* Machine learning for databases, learned indexes, and index selection.
-* Retrieval techniques for large language models and retrieval-augmented generation.
+* Multi-agent systems and agentic data management.
+* Large language model inference systems and efficient serving.
+* Hybrid vector search, vector databases, and approximate nearest neighbor search.
+* Scalable indexing, clustering, and machine learning for database systems.
 
 ## News
 
 <ul class="news-list">
-  <li><span class="date">2026</span><span>Our paper <strong>Highly-Efficient Large-Scale k-means with Individual Fairness</strong> was published in <strong>PVLDB 19(5)</strong>. We develop TKM and FastTKM to improve both fairness and scalability in large-scale clustering.</span></li>
-  <li><span class="date">2026</span><span>Our new preprint <strong>Graph-centric Cross-model Data Integration and Analytics in a Unified Multi-model Database</strong> introduces GredoDB, a unified system for graph, relational, and document data.</span></li>
-  <li><span class="date">2026</span><span>Our work <strong>UnIS</strong> was accepted to <strong>ICDE 2026</strong>.</span></li>
-  <li><span class="date">2025</span><span>Our paper on federated and balanced clustering was accepted to <strong>VLDB 2025</strong>.</span></li>
-  <li><span class="date">2025</span><span>Our paper on simplifying large-scale spatial vectors appeared at <strong>ICDE 2025</strong>.</span></li>
+  <li><span class="date">2026</span><span>I joined the Department of Computer Science at <strong>Hong Kong Baptist University</strong> as a postdoctoral researcher, working with Prof. Jianliang Xu.</span></li>
+  <li><span class="date">2026</span><span>Our paper <strong>Highly-Efficient Large-Scale k-means with Individual Fairness</strong> was published in <strong>PVLDB 19(5)</strong>. We develop TKM and FastTKM to improve fairness and scalability in large-scale clustering.</span></li>
+  <li><span class="date">2026</span><span>Our preprint <strong>Graph-centric Cross-model Data Integration and Analytics in a Unified Multi-model Database</strong> introduces GredoDB, a unified system for graph, relational, and document data.</span></li>
+  <li><span class="date">2026</span><span>Our work <strong>UnIS</strong> was accepted to <strong>ICDE 2026</strong>, addressing fast, updatable, and auto-selected on-device search.</span></li>
+  <li><span class="date">2025</span><span>Our paper <strong>Federated and Balanced Clustering for High-dimensional Data</strong> was published in <strong>PVLDB 18(11)</strong>, studying balanced clustering in federated settings.</span></li>
+  <li><span class="date">2025</span><span>Our paper <strong>On Simplifying Large-Scale Spatial Vectors</strong> appeared at <strong>ICDE 2025</strong>, presenting a fast, memory-efficient, and cost-predictable approach to k-means.</span></li>
 </ul>
 
 ## Selected Publications
@@ -71,22 +72,16 @@ My research focuses on database systems and data management for high-dimensional
 
 ## Education
 
-<ul class="timeline">
-  <li><span class="date">2022 - Present</span><span><strong>Ph.D. Student in Computer Science</strong>, Wuhan University, China.</span></li>
-  <li><span class="date">2019 - 2021</span><span><strong>M.A. in Statistics</strong>, Washington University in St. Louis, USA.</span></li>
-  <li><span class="date">2015 - 2019</span><span><strong>Zhangzhidong Class</strong>, Huazhong Agricultural University and Wuhan University, China.</span></li>
+<ul>
+  <li><strong>Ph.D. in Computer Science</strong>, Wuhan University, China. Advisors: Prof. Sheng Wang and Prof. Zhiyong Peng, Totem Database Lab.</li>
+  <li><strong>M.A. in Statistics</strong>, Washington University in St. Louis, USA.</li>
+  <li><strong>Zhangzhidong Class</strong>, Huazhong Agricultural University and Wuhan University, China.</li>
 </ul>
 
-## Working Experience
+## Work Experience
 
 <ul class="timeline">
+  <li><span class="date">Current</span><span><strong>Postdoctoral Researcher</strong>, Department of Computer Science, Hong Kong Baptist University, Hong Kong, China. Advisor: Prof. Jianliang Xu.</span></li>
   <li><span class="date">Apr. - Jul. 2021</span><span><strong>Software Engineer</strong>, Alipay, China.</span></li>
   <li><span class="date">Jan. - Apr. 2021</span><span><strong>Intern</strong>, Best Buy, USA.</span></li>
 </ul>
-
-## Activities
-
-<div class="gallery">
-  <img src="/images/whucs1.png" alt="Academic activity">
-  <img src="/images/WechatIMG19.png" alt="Academic outing">
-</div>

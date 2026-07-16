@@ -37,24 +37,41 @@ a:focus {
 }
 
 .site-header {
+  position: relative;
+  min-height: 176px;
   border-bottom: 1px solid var(--line);
-  background: var(--wash);
+  background-color: #1f3948;
+  background-image: url("/images/victoria-harbour.jpg");
+  background-position: center 54%;
+  background-size: cover;
+}
+
+.site-header::after {
+  position: absolute;
+  inset: 0;
+  background: rgba(10, 28, 40, 0.52);
+  content: "";
 }
 
 .site-header__inner {
+  position: relative;
+  z-index: 1;
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-between;
   width: min(1100px, calc(100% - 40px));
+  min-height: 176px;
   margin: 0 auto;
-  padding: 14px 0;
+  padding: 26px 0;
 }
 
 .site-title {
-  color: var(--text);
+  color: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 26px;
   font-weight: 700;
+  letter-spacing: 0;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.45);
 }
 
 .site-nav {
@@ -63,6 +80,16 @@ a:focus {
   gap: 18px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
+}
+
+.site-nav a {
+  color: #ffffff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.45);
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  color: #ffffff;
 }
 
 .page-shell {
@@ -274,6 +301,7 @@ a:focus {
   .site-header__inner {
     align-items: flex-start;
     flex-direction: column;
+    justify-content: flex-end;
     gap: 8px;
   }
 

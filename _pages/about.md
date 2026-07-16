@@ -25,6 +25,8 @@ My research focuses on database systems and data management for high-dimensional
 ## News
 
 <ul class="news-list">
+  <li><span class="date">2026</span><span>Our paper <strong>Highly-Efficient Large-Scale k-means with Individual Fairness</strong> was published in <strong>PVLDB 19(5)</strong>. We develop TKM and FastTKM to improve both fairness and scalability in large-scale clustering.</span></li>
+  <li><span class="date">2026</span><span>Our new preprint <strong>Graph-centric Cross-model Data Integration and Analytics in a Unified Multi-model Database</strong> introduces GredoDB, a unified system for graph, relational, and document data.</span></li>
   <li><span class="date">2026</span><span>Our work <strong>UnIS</strong> was accepted to <strong>ICDE 2026</strong>.</span></li>
   <li><span class="date">2025</span><span>Our paper on federated and balanced clustering was accepted to <strong>VLDB 2025</strong>.</span></li>
   <li><span class="date">2025</span><span>Our paper on simplifying large-scale spatial vectors appeared at <strong>ICDE 2025</strong>.</span></li>
@@ -36,7 +38,17 @@ My research focuses on database systems and data management for high-dimensional
 
 <ol class="pub-list">
   <li>
-    <span class="paper-title">Updatable Balanced Index for Fast On-device Search with Auto-selection Model.</span><br>
+    <span class="paper-title"><a href="https://www.vldb.org/pvldb/vol19/p808-zhu.pdf">Highly-Efficient Large-Scale k-means with Individual Fairness.</a></span><br>
+    Shengkun Zhu, Jinshan Zeng, Yuan Sun, Sheng Wang, Yiming Wang, <strong>Yushuai Ji</strong>, Feiping Nie, Xiaodong Li, and Zhiyong Peng.<br>
+    <span class="venue">PVLDB 2026</span>, 19(5): 808-821. <span class="tag">CCF A</span>
+  </li>
+  <li>
+    <span class="paper-title"><a href="https://arxiv.org/abs/2603.01598">Graph-centric Cross-model Data Integration and Analytics in a Unified Multi-model Database.</a></span><br>
+    Zepeng Liu, Sheng Wang, Shixun Huang, Hailang Qiu, Yuwei Peng, Jiale Feng, Shunan Liao, <strong>Yushuai Ji</strong>, and Zhiyong Peng.<br>
+    <span class="venue">arXiv:2603.01598</span>, 2026. <span class="tag">Preprint</span>
+  </li>
+  <li>
+    <span class="paper-title"><a href="https://sheng.whu.edu.cn/papers/26icde.pdf">Updatable Balanced Index for Fast On-device Search with Auto-selection Model.</a></span><br>
     <strong>Yushuai Ji</strong>, Sheng Wang, Zhiyu Chen, Yuan Sun, and Zhiyong Peng.<br>
     <span class="venue">ICDE 2026</span>, to appear. <span class="tag">CCF A</span>
   </li>

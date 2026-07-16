@@ -16,9 +16,9 @@ title: "Yushuai Ji"
 
 <p data-lang="zh" hidden>我目前在<a href="https://www.hkbu.edu.hk/">香港浸会大学</a>计算机科学系从事博士后研究，师从徐建良教授。我在<a href="https://www.whu.edu.cn/">武汉大学</a>计算机学院获得计算机科学博士学位，博士期间师从王胜教授和彭智勇教授，并在图腾数据库实验室开展研究。</p>
 
-<p data-lang="en">My research focuses on AI for databases and databases for AI, especially on the data and systems infrastructure needed by large language model applications. I am particularly interested in LLM inference, multi-agent data systems, multi-agent systems, and vector databases, with an emphasis on efficient inference and retrieval, hybrid vector search, approximate nearest neighbor search, and scalable data management. My work aims to build efficient data management and retrieval infrastructure for LLM and multi-agent applications.</p>
+<p data-lang="en">My research focuses on large language model inference infrastructure and databases for AI. I am particularly interested in LLM inference, multi-agent data systems, multi-agent systems, and vector databases, with an emphasis on efficient inference and retrieval, hybrid vector search, approximate nearest neighbor search, and scalable data management. My work aims to build efficient data management and retrieval infrastructure for LLM and multi-agent applications.</p>
 
-<p data-lang="zh" hidden>我的研究主要聚焦于面向数据库的人工智能（AI for databases）和面向人工智能的数据库（databases for AI），尤其关注大语言模型应用所需的数据与系统基础设施。我主要研究大语言模型推理、多智能体数据系统、多智能体系统和向量数据库，并重点关注高效推理与检索、混合向量检索、近似近邻搜索以及可扩展的数据管理。我的工作旨在为大语言模型和多智能体应用构建高效的数据管理与检索基础设施。</p>
+<p data-lang="zh" hidden>我的研究主要聚焦于大模型推理基础设施和面向人工智能的数据库（databases for AI）。我主要研究大语言模型推理、多智能体数据系统、多智能体系统和向量数据库，并重点关注高效推理与检索、混合向量检索、近似近邻搜索以及可扩展的数据管理。我的工作旨在为大语言模型和多智能体应用构建高效的数据管理与检索基础设施。</p>
 
 <h2><span data-lang="en">Research Interests</span><span data-lang="zh" hidden>研究方向</span></h2>
 

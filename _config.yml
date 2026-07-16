@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yushuai Ji"
 title_separator          : "-"
 name                     : &name "Yushuai Ji"
-description              : &description "Postdoctoral researcher in the Department of Computer Science at Hong Kong Baptist University. Research at the intersection of AI for databases and databases for AI, with a focus on LLM infrastructure, vector databases, multi-agent systems, efficient inference, hybrid vector search, and approximate nearest neighbor search."
+description              : &description "Postdoctoral researcher in the Department of Computer Science at Hong Kong Baptist University. Research in large language model inference infrastructure, databases for AI, vector databases, multi-agent systems, efficient retrieval, hybrid vector search, and approximate nearest neighbor search."
 url                      : https://yushuaiji.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YushuaiJi/YushuaiJi.github.io"

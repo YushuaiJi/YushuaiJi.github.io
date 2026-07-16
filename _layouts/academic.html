@@ -11,11 +11,18 @@
   <body>
     <header class="site-header">
       <div class="site-header__inner">
-        <nav class="site-nav" aria-label="Primary navigation">
-          {% for link in site.data.navigation.main %}
-            <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
-          {% endfor %}
-        </nav>
+        <div class="site-header__controls">
+          <nav class="site-nav" aria-label="Primary navigation">
+            {% for link in site.data.navigation.main %}
+              <a href="{{ link.url | relative_url }}">
+                {% if link.title == 'Home' %}<span data-lang="en">Home</span><span data-lang="zh" hidden>首页</span>{% endif %}
+                {% if link.title == 'Publications' %}<span data-lang="en">Publications</span><span data-lang="zh" hidden>发表论文</span>{% endif %}
+                {% if link.title == 'CV' %}<span data-lang="en">CV</span><span data-lang="zh" hidden>个人简历</span>{% endif %}
+              </a>
+            {% endfor %}
+          </nav>
+          <button class="language-toggle" type="button" aria-label="Switch to Chinese" title="Switch to Chinese">中文</button>
+        </div>
       </div>
     </header>
 
@@ -23,20 +30,25 @@
       <aside class="profile-panel" aria-label="Profile">
         <img class="profile-photo" src="{{ '/images/yushuai-profile.jpg' | relative_url }}" alt="Yushuai Ji">
         <h1>Yushuai Ji</h1>
-        <p class="profile-title">Postdoctoral Researcher</p>
-        <p>
+        <p class="profile-title"><span data-lang="en">Postdoctoral Researcher</span><span data-lang="zh" hidden>博士后研究员</span></p>
+        <p data-lang="en">
           <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University</a><br>
           Department of Computer Science<br>
           Hong Kong, China
         </p>
+        <p data-lang="zh" hidden>
+          <a href="https://www.hkbu.edu.hk/">香港浸会大学</a><br>
+          计算机科学系<br>
+          中国香港
+        </p>
         <dl class="profile-list">
-          <dt>Email</dt>
+          <dt><span data-lang="en">Email</span><span data-lang="zh" hidden>邮箱</span></dt>
           <dd><a href="mailto:csysji@hkbu.edu.hk">csysji [at] hkbu.edu.hk</a></dd>
-          <dt>Links</dt>
+          <dt><span data-lang="en">Links</span><span data-lang="zh" hidden>链接</span></dt>
           <dd>
             <a href="https://scholar.google.com/citations?user=7JrI8PcAAAAJ&hl=en">Google Scholar</a><br>
             <a href="https://github.com/YushuaiJi">GitHub</a><br>
-            <a href="{{ '/cv/' | relative_url }}">CV</a>
+            <a href="{{ '/cv/' | relative_url }}"><span data-lang="en">CV</span><span data-lang="zh" hidden>个人简历</span></a>
           </dd>
         </dl>
       </aside>
@@ -47,7 +59,9 @@
     </div>
 
     <footer class="site-footer">
-      <p>&copy; {{ site.time | date: '%Y' }} Yushuai Ji. Last updated {{ site.time | date: '%B %d, %Y' }}. Header photo: <a href="https://commons.wikimedia.org/wiki/File:Victoria_Harbour_(Hong_Kong).jpg">Victoria Harbour</a> by <a href="https://commons.wikimedia.org/wiki/User:Mk2010">Mk2010</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</p>
+      <p data-lang="en">&copy; {{ site.time | date: '%Y' }} Yushuai Ji. Last updated {{ site.time | date: '%B %d, %Y' }}. Header photo: <a href="https://commons.wikimedia.org/wiki/File:Victoria_Harbour_(Hong_Kong).jpg">Victoria Harbour</a> by <a href="https://commons.wikimedia.org/wiki/User:Mk2010">Mk2010</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</p>
+      <p data-lang="zh" hidden>&copy; {{ site.time | date: '%Y' }} Yushuai Ji。最后更新于 {{ site.time | date: '%Y年%m月%d日' }}。页眉图片：<a href="https://commons.wikimedia.org/wiki/File:Victoria_Harbour_(Hong_Kong).jpg">维多利亚港</a>，作者 <a href="https://commons.wikimedia.org/wiki/User:Mk2010">Mk2010</a>，许可协议 <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>。</p>
     </footer>
+    <script src="{{ '/assets/js/language-toggle.js' | relative_url }}"></script>
   </body>
 </html>

@@ -15,7 +15,7 @@ permalink: /cv/
 </ul>
 
 <ul data-lang="zh" hidden>
-  <li><strong>计算机科学博士</strong>，武汉大学，中国。导师：王胜教授、彭志勇教授，图腾数据库实验室。</li>
+  <li><strong>计算机科学博士</strong>，武汉大学，中国。导师：王胜教授、彭智勇教授，图腾数据库实验室。</li>
   <li><strong>统计学硕士</strong>，圣路易斯华盛顿大学，美国。</li>
   <li><strong>张之洞班</strong>，华中农业大学与武汉大学，中国。</li>
 </ul>

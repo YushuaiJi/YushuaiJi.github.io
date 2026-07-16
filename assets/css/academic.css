@@ -121,6 +121,23 @@ a:focus {
   display: none !important;
 }
 
+html[lang="zh-CN"] body {
+  font-family: "Songti SC", "STSong", "Noto Serif CJK SC", "SimSun", serif;
+}
+
+html[lang="zh-CN"] .content h1,
+html[lang="zh-CN"] .content h2,
+html[lang="zh-CN"] .content h3,
+html[lang="zh-CN"] .profile-panel h1,
+html[lang="zh-CN"] .site-nav,
+html[lang="zh-CN"] .profile-list dt,
+html[lang="zh-CN"] .date,
+html[lang="zh-CN"] .tag,
+html[lang="zh-CN"] .site-footer,
+html[lang="zh-CN"] .language-toggle {
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+}
+
 .page-shell {
   display: grid;
   grid-template-columns: 270px minmax(0, 1fr);

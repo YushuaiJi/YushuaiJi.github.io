@@ -4,7 +4,7 @@ permalink: /
 title: "Yushuai Ji"
 ---
 
-# Yushuai Ji
+# <span data-lang="en">Yushuai Ji</span><span data-lang="zh" hidden>纪宇帅</span>
 {: .page-title}
 
 <p class="subtitle" data-lang="en">Postdoctoral Researcher, Department of Computer Science, Hong Kong Baptist University</p>
@@ -12,13 +12,13 @@ title: "Yushuai Ji"
 
 <h2><span data-lang="en">Biography</span><span data-lang="zh" hidden>个人简介</span></h2>
 
-<p data-lang="en">I am a postdoctoral researcher in the Department of Computer Science at <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University</a>, working with Prof. Jianliang Xu. I received my Ph.D. in Computer Science from <a href="https://www.whu.edu.cn/">Wuhan University</a>, where I was advised by Prof. Sheng Wang and Prof. Zhiyong Peng in the Totem Database Lab.</p>
+<p data-lang="en">I am currently a postdoctoral researcher in the Department of Computer Science at <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University</a>, working with Prof. Jianliang Xu. I received my Ph.D. in Computer Science from <a href="https://www.whu.edu.cn/">Wuhan University</a>, where I was advised by Prof. Sheng Wang and Prof. Zhiyong Peng in the Totem Database Lab.</p>
 
-<p data-lang="zh" hidden>我目前是<a href="https://www.hkbu.edu.hk/">香港浸会大学</a>计算机科学系的博士后研究员，师从 Jianliang Xu 教授。我在<a href="https://www.whu.edu.cn/">武汉大学</a>计算机学院获得计算机科学博士学位，博士期间师从 Sheng Wang 教授和 Zhiyong Peng 教授，并在 Totem Database Lab 开展研究。</p>
+<p data-lang="zh" hidden>我目前在<a href="https://www.hkbu.edu.hk/">香港浸会大学</a>计算机科学系从事博士后研究，师从许建良教授。我在<a href="https://www.whu.edu.cn/">武汉大学</a>计算机学院获得计算机科学博士学位，博士期间师从王胜教授和彭志勇教授，并在图腾数据库实验室开展研究。</p>
 
-<p data-lang="en">My research lies at the intersection of AI for databases and databases for AI. I am particularly interested in building data and systems infrastructure for large language models, vector databases, and multi-agent systems, with a focus on efficient LLM inference, hybrid vector search, approximate nearest neighbor search, and scalable data management. My work aims to build efficient data management and retrieval infrastructure for LLMs and multi-agent applications.</p>
+<p data-lang="en">My research focuses on AI for databases and databases for AI, especially on the data and systems infrastructure needed by large language model applications. I am particularly interested in LLM inference, multi-agent data systems, multi-agent systems, and vector databases, with an emphasis on efficient inference and retrieval, hybrid vector search, approximate nearest neighbor search, and scalable data management. My work aims to build efficient data management and retrieval infrastructure for LLM and multi-agent applications.</p>
 
-<p data-lang="zh" hidden>我的研究位于 AI for databases 与 databases for AI 的交叉领域。我主要关注面向大型语言模型、向量数据库和多智能体系统的数据与系统基础设施，重点研究高效的 LLM 推理、混合向量检索、近似近邻搜索和可扩展的数据管理。我的工作旨在为 LLM 和多智能体应用构建高效的数据管理与检索基础设施。</p>
+<p data-lang="zh" hidden>我的研究主要聚焦于面向数据库的人工智能（AI for databases）和面向人工智能的数据库（databases for AI），尤其关注大语言模型应用所需的数据与系统基础设施。我主要研究大语言模型推理、多智能体数据系统、多智能体系统和向量数据库，并重点关注高效推理与检索、混合向量检索、近似近邻搜索以及可扩展的数据管理。我的工作旨在为大语言模型和多智能体应用构建高效的数据管理与检索基础设施。</p>
 
 <h2><span data-lang="en">Research Interests</span><span data-lang="zh" hidden>研究方向</span></h2>
 
@@ -105,7 +105,7 @@ title: "Yushuai Ji"
 </ul>
 
 <ul data-lang="zh" hidden>
-  <li><strong>计算机科学博士</strong>，武汉大学，中国。导师：Sheng Wang 教授、Zhiyong Peng 教授，Totem Database Lab。</li>
+  <li><strong>计算机科学博士</strong>，武汉大学，中国。导师：王胜教授、彭志勇教授，图腾数据库实验室。</li>
   <li><strong>统计学硕士</strong>，圣路易斯华盛顿大学，美国。</li>
   <li><strong>张之洞班</strong>，华中农业大学与武汉大学，中国。</li>
 </ul>
@@ -119,7 +119,7 @@ title: "Yushuai Ji"
 </ul>
 
 <ul class="timeline" data-lang="zh" hidden>
-  <li><span class="date">目前</span><span><strong>博士后研究员</strong>，香港浸会大学计算机科学系，中国香港。导师：Jianliang Xu 教授。</span></li>
+  <li><span class="date">目前</span><span><strong>博士后研究员</strong>，香港浸会大学计算机科学系，中国香港。导师：许建良教授。</span></li>
   <li><span class="date">2021年4月 - 7月</span><span><strong>软件工程师</strong>，支付宝，中国。</span></li>
   <li><span class="date">2021年1月 - 4月</span><span><strong>实习生</strong>，Best Buy，美国。</span></li>
 </ul>
